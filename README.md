@@ -1,4 +1,4 @@
-# Abkhazia
+# Abkhazia for Python3 (ongoing)
 
 **Online documentation can be found [here](https://abkhazia.readthedocs.io/en/latest/)**
 
